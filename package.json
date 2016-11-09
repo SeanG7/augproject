@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanG7/augproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SeanG7/augproject/issues"
+  },
+  "homepage": "https://github.com/SeanG7/augproject#readme"
 }
